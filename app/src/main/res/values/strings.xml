@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DuckApp</string>
+    <string name="image_view_description">Image with duck</string>
+    <string name="button_text">NEXT</string>
 </resources>
