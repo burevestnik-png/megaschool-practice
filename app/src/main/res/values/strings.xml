@@ -2,4 +2,6 @@
     <string name="app_name">DuckApp</string>
     <string name="image_view_description">Image with duck</string>
     <string name="button_text">NEXT</string>
+    <string name="textView">100, 200, 301, 302, 400, 403, 404, 409, 413, 418, 420, 426, 429, 451, 500</string>
+    <string name="editTextHint">Input HTTP code</string>
 </resources>
